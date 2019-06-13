@@ -121,8 +121,6 @@ class Timer {
   }
 }
 
-
-
 const newTimer = new Timer();
 
 btnStart.addEventListener('click', () => {
